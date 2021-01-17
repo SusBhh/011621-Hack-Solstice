@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UfoodApp</string>
+
+    <string-array name="name_array">
+        <item>Au Bon Pain</item>
+        <item>Chick-fil-A</item>
+        <item>Chomp and Go</item>
+        <item>Chomp It</item>
+        <item>Croutons</item>
+        <item>Einstein Bros. Bagels</item>
+        <item>Firehouse Subs</item>
+        <item>Fresh Food Company</item>
+        <item>Gator Corner Dining Center</item>
+        <item>Au Bon Pain</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
